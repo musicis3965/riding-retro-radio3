@@ -1,1 +1,6 @@
 http://192.99.220.108:20090/stream?type=http&nocache=12111
+
+
+#EXTM3U
+#EXTINF:0,10194
+http://tunein.sonixfm.com/10194
